@@ -1,0 +1,26 @@
+[
+    {
+        "img": "../assets/images/travel1.jpg",
+        "alt": "Eifel Tower",
+        "name": "Eifel Tower",
+        "button": "View Destination"
+    },
+    {
+        "img": "../assets/images/travel1.jpg",
+        "alt": "Tian Tan Buddha",
+        "name": "Tian Tan Buddha",
+        "button": "View Destination"
+    },
+    {
+        "img": "../assets/images/travel1.jpg",
+        "alt": "Tian Tan Buddha",
+        "name": "Tian Tan Buddha",
+        "button": "View Destination"
+    },
+    {
+        "img": "../assets/images/travel1.jpg",
+        "alt": "Tian Tan Buddha",
+        "name": "Tian Tan Buddha",
+        "button": "View Destination"
+    }
+]
